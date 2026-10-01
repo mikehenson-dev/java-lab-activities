@@ -1,0 +1,16 @@
+# ARCALAS_MIKE_bitwise.py
+# Bitwise Operations
+
+a = 10
+b = 5
+
+print("Bitwise Operations")
+print("A =", a)
+print("B =", b)
+
+print("AND:", a & b)
+print("OR:", a | b)
+print("XOR:", a ^ b)
+print("NOT A:", ~a)
+print("Left Shift A:", a << 1)
+print("Right Shift A:", a >> 1)
